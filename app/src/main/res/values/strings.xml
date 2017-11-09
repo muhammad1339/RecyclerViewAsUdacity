@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="titles">
+        <item>Avatar</item>
+        <item>Dead Pool</item>
+        <item>Lights Out</item>
+        <item>Me ,Myself and Irene</item>
+        <item>MoonLight</item>
+        <item>Rocky</item>
+        <item>Star Trek</item>
+        <item>Star Wars Empire Needs You</item>
+        <item>Super Bean</item>
+        <item>SuperMan Returns</item>
+    </string-array>
+    <string-array name="directors">
+        <item>James Cameron</item>
+        <item>Tim Miller</item>
+        <item>David Sandberg</item>
+        <item>Peter Farrelly</item>
+        <item>Barry Jenkins</item>
+        <item>Sylvester Stallone</item>
+        <item>J.J. Abrams</item>
+        <item>George Lucas</item>
+        <item>Mr.Bean</item>
+        <item>Bryan Singer</item>
+    </string-array>
+</resources>

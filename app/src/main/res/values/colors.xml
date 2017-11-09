@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="fb_color">#4CAF50</color>
+    <color name="tw_color">#0096FF</color>
+    <color name="one">#e6ffe6</color>
+    <color name="two">#ccffcc</color>
+    <color name="three">#b3ffb3</color>
+    <color name="four">#99ff99</color>
+    <color name="five">#80ff80</color>
+    <color name="six">#66ff66</color>
+    <color name="seven">#4dff4d</color>
+    <color name="eight">#33ff33</color>
+    <color name="nine">#1aff1a</color>
+    <color name="ten">#00ff00</color>
+
+</resources>
